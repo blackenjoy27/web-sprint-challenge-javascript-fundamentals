@@ -17,6 +17,8 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
+// when the variable isn't found on the nestedFunction() it will look outside the function to find the variable.
+// They will look for internal in the global scope if it's not found in myFunction.
 
 
 
